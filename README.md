@@ -16,7 +16,7 @@
 - Giao diện xem lịch sử mua hàng
 #Có thể hủy đơn hàng nếu bạn đặt hàng dưới 2 ngày, đã giao khi đơn hàng được giao đến bạn, còn lại đang giao
 
-# Giao diện Admin ( không chụp những trang nhỏ lẻ khác)
+# Giao diện Admin 
 - Giao diện trang danh sách sản phẩm (số lượng, màu, size ở bảng khác liên kết với bảng sản phẩm)
 
 - Giao diện trang đơn hàng
