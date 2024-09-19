@@ -1,4 +1,4 @@
-# Web bán hàng thời trang TShop sử dụng công nghệ Asp.Net MVC
+# Web bán hàng thời trang FASHIONSHOP sử dụng công nghệ Asp.Net MVC
 # Giao diện người dùng
 - Giao diện trang chủ
 
